@@ -1,0 +1,2568 @@
+{
+    "originalName": "Media archive.zip",
+    "tmpName": "ef727c6f-d1c5-494b-bab3-315cbe075c40",
+    "children": [
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": ".env",
+            "size": "0.27Ko",
+            "mimeType": "application/octet-stream",
+            "type": "file",
+            "extenxion": "env",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.env"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": true,
+            "name": ".git",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git",
+            "children": [
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "config",
+                    "size": "0.30Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "config",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\config"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "description",
+                    "size": "0.07Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "description",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\description"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "HEAD",
+                    "size": "0.02Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "HEAD",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\HEAD"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "hooks",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "applypatch-msg.sample",
+                            "size": "0.46Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\applypatch-msg.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "commit-msg.sample",
+                            "size": "0.87Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\commit-msg.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "fsmonitor-watchman.sample",
+                            "size": "4.54Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\fsmonitor-watchman.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "post-update.sample",
+                            "size": "0.18Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\post-update.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "pre-applypatch.sample",
+                            "size": "0.41Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\pre-applypatch.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "pre-commit.sample",
+                            "size": "1.60Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\pre-commit.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "pre-merge-commit.sample",
+                            "size": "0.40Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\pre-merge-commit.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "pre-push.sample",
+                            "size": "1.34Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\pre-push.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "pre-rebase.sample",
+                            "size": "4.78Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\pre-rebase.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "pre-receive.sample",
+                            "size": "0.53Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\pre-receive.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "prepare-commit-msg.sample",
+                            "size": "1.45Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\prepare-commit-msg.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "push-to-checkout.sample",
+                            "size": "2.71Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\push-to-checkout.sample"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "update.sample",
+                            "size": "3.56Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "sample",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\hooks\\update.sample"
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "index",
+                    "size": "2.90Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "index",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\index"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "info",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\info",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "exclude",
+                            "size": "0.23Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "exclude",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\info\\exclude"
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "logs",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "HEAD",
+                            "size": "0.20Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "HEAD",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs\\HEAD"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "refs",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs\\refs",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "heads",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs\\refs\\heads",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "master",
+                                            "size": "0.20Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "master",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs\\refs\\heads\\master"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "remotes",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs\\refs\\remotes",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "origin",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs\\refs\\remotes\\origin",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "HEAD",
+                                                    "size": "0.20Ko",
+                                                    "mimeType": "application/octet-stream",
+                                                    "type": "file",
+                                                    "extenxion": "HEAD",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\logs\\refs\\remotes\\origin\\HEAD"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "objects",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\objects",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "info",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\objects\\info",
+                            "children": []
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "pack",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\objects\\pack",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pack-2f3afe1bb7ae18d2724b6b47db73442a732e289e.idx",
+                                    "size": "7.52Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "idx",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\objects\\pack\\pack-2f3afe1bb7ae18d2724b6b47db73442a732e289e.idx"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pack-2f3afe1bb7ae18d2724b6b47db73442a732e289e.pack",
+                                    "size": "11.2Mo",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "pack",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\objects\\pack\\pack-2f3afe1bb7ae18d2724b6b47db73442a732e289e.pack"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "packed-refs",
+                    "size": "0.11Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "packed-refs",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\packed-refs"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "refs",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\refs",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "heads",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\refs\\heads",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "master",
+                                    "size": "0.04Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "master",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\refs\\heads\\master"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "remotes",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\refs\\remotes",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "origin",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\refs\\remotes\\origin",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "HEAD",
+                                            "size": "0.03Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "HEAD",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\refs\\remotes\\origin\\HEAD"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "tags",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.git\\refs\\tags",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": ".gitignore",
+            "size": "0.03Ko",
+            "mimeType": "application/octet-stream",
+            "type": "file",
+            "extenxion": "gitignore",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\.gitignore"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "1_mk1-6aYaf_Bes1E3Imhc0A.jpeg",
+            "size": "188.Ko",
+            "mimeType": "image/jpeg",
+            "type": "image",
+            "extenxion": "jpeg",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\1_mk1-6aYaf_Bes1E3Imhc0A.jpeg"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": true,
+            "name": "archive",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive",
+            "children": [
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "algo.js",
+                    "size": "0.36Ko",
+                    "mimeType": "application/javascript",
+                    "type": "file",
+                    "extenxion": "js",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\algo.js"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "Class Diagram1.jpg",
+                    "size": "30.1Ko",
+                    "mimeType": "image/jpeg",
+                    "type": "image",
+                    "extenxion": "jpg",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\Class Diagram1.jpg"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "Exercice 1.docx",
+                    "size": "14.0Ko",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "type": "file",
+                    "extenxion": "docx",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\Exercice 1.docx"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "Exercice 2.docx",
+                    "size": "74.6Ko",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "type": "file",
+                    "extenxion": "docx",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\Exercice 2.docx"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "question 1.pdf",
+                    "size": "607.Ko",
+                    "mimeType": "application/pdf",
+                    "type": "file",
+                    "extenxion": "pdf",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\question 1.pdf"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "rendu",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "aristide-legba-test-botmind.zip",
+                            "size": "992.Ko",
+                            "mimeType": "application/zip",
+                            "type": "file",
+                            "extenxion": "zip",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\aristide-legba-test-botmind.zip"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "question1",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question1",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "Algo.pdf",
+                                    "size": "607.Ko",
+                                    "mimeType": "application/pdf",
+                                    "type": "file",
+                                    "extenxion": "pdf",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question1\\Algo.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "question2",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question2",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "Architecture Logicielle.pdf",
+                                    "size": "426.Ko",
+                                    "mimeType": "application/pdf",
+                                    "type": "file",
+                                    "extenxion": "pdf",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question2\\Architecture Logicielle.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "question3",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": ".env",
+                                    "size": "0.27Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "env",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\.env"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": ".gitignore",
+                                    "size": "0.03Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "gitignore",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\.gitignore"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "controllers",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\controllers",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "chatBotController.js",
+                                            "size": "4.32Ko",
+                                            "mimeType": "application/javascript",
+                                            "type": "file",
+                                            "extenxion": "js",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\controllers\\chatBotController.js"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "package-lock.json",
+                                    "size": "61.4Ko",
+                                    "mimeType": "application/json",
+                                    "type": "file",
+                                    "extenxion": "json",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\package-lock.json"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "package.json",
+                                    "size": "0.43Ko",
+                                    "mimeType": "application/json",
+                                    "type": "file",
+                                    "extenxion": "json",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\package.json"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "Procfile",
+                                    "size": "0.02Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "Procfile",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\Procfile"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "routes",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\routes",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "api.js",
+                                            "size": "0.43Ko",
+                                            "mimeType": "application/javascript",
+                                            "type": "file",
+                                            "extenxion": "js",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\routes\\api.js"
+                                        },
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "webhook_verify.js",
+                                            "size": "1.26Ko",
+                                            "mimeType": "application/javascript",
+                                            "type": "file",
+                                            "extenxion": "js",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\routes\\webhook_verify.js"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "server.js",
+                                    "size": "0.45Ko",
+                                    "mimeType": "application/javascript",
+                                    "type": "file",
+                                    "extenxion": "js",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\rendu\\question3\\server.js"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "test-bot.vpp",
+                    "size": "703Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "vpp",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\test-bot.vpp"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "Use Case Diagram1.jpg",
+                    "size": "27.3Ko",
+                    "mimeType": "image/jpeg",
+                    "type": "image",
+                    "extenxion": "jpg",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\archive\\Use Case Diagram1.jpg"
+                }
+            ]
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "AristideLegbaResumeFr2020.pdf",
+            "size": "350.Ko",
+            "mimeType": "application/pdf",
+            "type": "file",
+            "extenxion": "pdf",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\AristideLegbaResumeFr2020.pdf"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "audioclip.mp3",
+            "size": "2.68Mo",
+            "mimeType": "audio/mpeg",
+            "type": "audio",
+            "extenxion": "mp3",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\audioclip.mp3"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": true,
+            "name": "controllers",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\controllers",
+            "children": [
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "chatBotController.js",
+                    "size": "4.32Ko",
+                    "mimeType": "application/javascript",
+                    "type": "file",
+                    "extenxion": "js",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\controllers\\chatBotController.js"
+                }
+            ]
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "david_archuleta_invincible_official_lyric_video_h264_1305.mp4",
+            "size": "5.70Mo",
+            "mimeType": "video/mp4",
+            "type": "video",
+            "extenxion": "mp4",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\david_archuleta_invincible_official_lyric_video_h264_1305.mp4"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": true,
+            "name": "FileX",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX",
+            "children": [
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": ".git",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "config",
+                            "size": "0.29Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "config",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\config"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "description",
+                            "size": "0.07Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "description",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\description"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "HEAD",
+                            "size": "0.02Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "HEAD",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\HEAD"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "hooks",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "applypatch-msg.sample",
+                                    "size": "0.46Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\applypatch-msg.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "commit-msg.sample",
+                                    "size": "0.87Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\commit-msg.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "fsmonitor-watchman.sample",
+                                    "size": "4.54Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\fsmonitor-watchman.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "post-update.sample",
+                                    "size": "0.18Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\post-update.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pre-applypatch.sample",
+                                    "size": "0.41Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\pre-applypatch.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pre-commit.sample",
+                                    "size": "1.60Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\pre-commit.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pre-merge-commit.sample",
+                                    "size": "0.40Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\pre-merge-commit.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pre-push.sample",
+                                    "size": "1.34Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\pre-push.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pre-rebase.sample",
+                                    "size": "4.78Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\pre-rebase.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "pre-receive.sample",
+                                    "size": "0.53Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\pre-receive.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "prepare-commit-msg.sample",
+                                    "size": "1.45Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\prepare-commit-msg.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "push-to-checkout.sample",
+                                    "size": "2.71Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\push-to-checkout.sample"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "update.sample",
+                                    "size": "3.56Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "sample",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\hooks\\update.sample"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "index",
+                            "size": "11.3Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "index",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\index"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "info",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\info",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "exclude",
+                                    "size": "0.23Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "exclude",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\info\\exclude"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "logs",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "HEAD",
+                                    "size": "0.19Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "HEAD",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs\\HEAD"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "refs",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs\\refs",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "heads",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs\\refs\\heads",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "master",
+                                                    "size": "0.19Ko",
+                                                    "mimeType": "application/octet-stream",
+                                                    "type": "file",
+                                                    "extenxion": "master",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs\\refs\\heads\\master"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "remotes",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs\\refs\\remotes",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": true,
+                                                    "name": "origin",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs\\refs\\remotes\\origin",
+                                                    "children": [
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": false,
+                                                            "name": "HEAD",
+                                                            "size": "0.19Ko",
+                                                            "mimeType": "application/octet-stream",
+                                                            "type": "file",
+                                                            "extenxion": "HEAD",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\logs\\refs\\remotes\\origin\\HEAD"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "objects",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\objects",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "info",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\objects\\info",
+                                    "children": []
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "pack",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\objects\\pack",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "pack-e19bb7045e3e8a445ee949831dfd2a824fef4162.idx",
+                                            "size": "17.1Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "idx",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\objects\\pack\\pack-e19bb7045e3e8a445ee949831dfd2a824fef4162.idx"
+                                        },
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "pack-e19bb7045e3e8a445ee949831dfd2a824fef4162.pack",
+                                            "size": "555.Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "pack",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\objects\\pack\\pack-e19bb7045e3e8a445ee949831dfd2a824fef4162.pack"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "packed-refs",
+                            "size": "0.34Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "packed-refs",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\packed-refs"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "refs",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\refs",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "heads",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\refs\\heads",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "master",
+                                            "size": "0.04Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "master",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\refs\\heads\\master"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "remotes",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\refs\\remotes",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "origin",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\refs\\remotes\\origin",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "HEAD",
+                                                    "size": "0.03Ko",
+                                                    "mimeType": "application/octet-stream",
+                                                    "type": "file",
+                                                    "extenxion": "HEAD",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\refs\\remotes\\origin\\HEAD"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "tags",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.git\\refs\\tags",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": ".gitignore",
+                    "size": "0.63Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "gitignore",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.gitignore"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": ".metadata",
+                    "size": "0.30Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "metadata",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\.metadata"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "android",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": ".gitignore",
+                            "size": "0.11Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "gitignore",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\.gitignore"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "app",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "build.gradle",
+                                    "size": "2.03Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "gradle",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\build.gradle"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "src",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "debug",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\debug",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "AndroidManifest.xml",
+                                                    "size": "0.32Ko",
+                                                    "mimeType": "application/xml",
+                                                    "type": "file",
+                                                    "extenxion": "xml",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\debug\\AndroidManifest.xml"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "main",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "AndroidManifest.xml",
+                                                    "size": "1.72Ko",
+                                                    "mimeType": "application/xml",
+                                                    "type": "file",
+                                                    "extenxion": "xml",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\AndroidManifest.xml"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": true,
+                                                    "name": "kotlin",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\kotlin",
+                                                    "children": [
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "dev",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\kotlin\\dev",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": true,
+                                                                    "name": "jideguru",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\kotlin\\dev\\jideguru",
+                                                                    "children": [
+                                                                        {
+                                                                            "isRoot": false,
+                                                                            "isDirectory": true,
+                                                                            "name": "filex",
+                                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\kotlin\\dev\\jideguru\\filex",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isRoot": false,
+                                                                                    "isDirectory": false,
+                                                                                    "name": "MainActivity.kt",
+                                                                                    "size": "2.42Ko",
+                                                                                    "mimeType": "application/octet-stream",
+                                                                                    "type": "file",
+                                                                                    "extenxion": "kt",
+                                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\kotlin\\dev\\jideguru\\filex\\MainActivity.kt"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": true,
+                                                    "name": "res",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res",
+                                                    "children": [
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "drawable",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\drawable",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": false,
+                                                                    "name": "launch_background.xml",
+                                                                    "size": "0.43Ko",
+                                                                    "mimeType": "application/xml",
+                                                                    "type": "file",
+                                                                    "extenxion": "xml",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "mipmap-hdpi",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-hdpi",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": false,
+                                                                    "name": "ic_launcher.png",
+                                                                    "size": "0.53Ko",
+                                                                    "mimeType": "image/png",
+                                                                    "type": "image",
+                                                                    "extenxion": "png",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "mipmap-mdpi",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-mdpi",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": false,
+                                                                    "name": "ic_launcher.png",
+                                                                    "size": "0.43Ko",
+                                                                    "mimeType": "image/png",
+                                                                    "type": "image",
+                                                                    "extenxion": "png",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "mipmap-xhdpi",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-xhdpi",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": false,
+                                                                    "name": "ic_launcher.png",
+                                                                    "size": "0.70Ko",
+                                                                    "mimeType": "image/png",
+                                                                    "type": "image",
+                                                                    "extenxion": "png",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "mipmap-xxhdpi",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-xxhdpi",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": false,
+                                                                    "name": "ic_launcher.png",
+                                                                    "size": "1.00Ko",
+                                                                    "mimeType": "image/png",
+                                                                    "type": "image",
+                                                                    "extenxion": "png",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "mipmap-xxxhdpi",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-xxxhdpi",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": false,
+                                                                    "name": "ic_launcher.png",
+                                                                    "size": "1.40Ko",
+                                                                    "mimeType": "image/png",
+                                                                    "type": "image",
+                                                                    "extenxion": "png",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isRoot": false,
+                                                            "isDirectory": true,
+                                                            "name": "values",
+                                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\values",
+                                                            "children": [
+                                                                {
+                                                                    "isRoot": false,
+                                                                    "isDirectory": false,
+                                                                    "name": "styles.xml",
+                                                                    "size": "0.36Ko",
+                                                                    "mimeType": "application/xml",
+                                                                    "type": "file",
+                                                                    "extenxion": "xml",
+                                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\main\\res\\values\\styles.xml"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "profile",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\profile",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "AndroidManifest.xml",
+                                                    "size": "0.32Ko",
+                                                    "mimeType": "application/xml",
+                                                    "type": "file",
+                                                    "extenxion": "xml",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\app\\src\\profile\\AndroidManifest.xml"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "build.gradle",
+                            "size": "0.59Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "gradle",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\build.gradle"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "gradle",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\gradle",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "wrapper",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\gradle\\wrapper",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "gradle-wrapper.properties",
+                                            "size": "0.23Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "properties",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\gradle\\wrapper\\gradle-wrapper.properties"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "gradle.properties",
+                            "size": "0.10Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "properties",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\gradle.properties"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "settings.gradle",
+                            "size": "0.48Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "gradle",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\android\\settings.gradle"
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "assets",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\assets",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "images",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\assets\\images",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "video-placeholder.png",
+                                    "size": "2.97Ko",
+                                    "mimeType": "image/png",
+                                    "type": "image",
+                                    "extenxion": "png",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\assets\\images\\video-placeholder.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "ios",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": ".gitignore",
+                            "size": "0.56Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "gitignore",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\.gitignore"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "Flutter",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Flutter",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "AppFrameworkInfo.plist",
+                                    "size": "0.80Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "plist",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Flutter\\AppFrameworkInfo.plist"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "Debug.xcconfig",
+                                    "size": "0.10Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "xcconfig",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Flutter\\Debug.xcconfig"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "Release.xcconfig",
+                                    "size": "0.10Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "xcconfig",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Flutter\\Release.xcconfig"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "Podfile",
+                            "size": "3.44Ko",
+                            "mimeType": "application/octet-stream",
+                            "type": "file",
+                            "extenxion": "Podfile",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Podfile"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "Runner",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "AppDelegate.swift",
+                                    "size": "0.40Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "swift",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\AppDelegate.swift"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "Assets.xcassets",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "AppIcon.appiconset",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Contents.json",
+                                                    "size": "2.57Ko",
+                                                    "mimeType": "application/json",
+                                                    "type": "file",
+                                                    "extenxion": "json",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Contents.json"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-1024x1024@1x.png",
+                                                    "size": "10.6Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-1024x1024@1x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-20x20@1x.png",
+                                                    "size": "0.55Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@1x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-20x20@2x.png",
+                                                    "size": "1.25Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@2x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-20x20@3x.png",
+                                                    "size": "1.55Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@3x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-29x29@1x.png",
+                                                    "size": "1.00Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@1x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-29x29@2x.png",
+                                                    "size": "1.67Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@2x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-29x29@3x.png",
+                                                    "size": "1.87Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@3x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-40x40@1x.png",
+                                                    "size": "1.25Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@1x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-40x40@2x.png",
+                                                    "size": "1.85Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@2x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-40x40@3x.png",
+                                                    "size": "2.60Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@3x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-60x60@2x.png",
+                                                    "size": "2.60Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-60x60@2x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-60x60@3x.png",
+                                                    "size": "3.74Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-60x60@3x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-76x76@1x.png",
+                                                    "size": "1.84Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-76x76@1x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-76x76@2x.png",
+                                                    "size": "3.21Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-76x76@2x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Icon-App-83.5x83.5@2x.png",
+                                                    "size": "3.52Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-83.5x83.5@2x.png"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "LaunchImage.imageset",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\LaunchImage.imageset",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Contents.json",
+                                                    "size": "0.40Ko",
+                                                    "mimeType": "application/json",
+                                                    "type": "file",
+                                                    "extenxion": "json",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\Contents.json"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "LaunchImage.png",
+                                                    "size": "0.06Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "LaunchImage@2x.png",
+                                                    "size": "0.06Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage@2x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "LaunchImage@3x.png",
+                                                    "size": "0.06Ko",
+                                                    "mimeType": "image/png",
+                                                    "type": "image",
+                                                    "extenxion": "png",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage@3x.png"
+                                                },
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "README.md",
+                                                    "size": "0.33Ko",
+                                                    "mimeType": "text/markdown",
+                                                    "type": "file",
+                                                    "extenxion": "md",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\README.md"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "Base.lproj",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Base.lproj",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "LaunchScreen.storyboard",
+                                            "size": "2.35Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "storyboard",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Base.lproj\\LaunchScreen.storyboard"
+                                        },
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "Main.storyboard",
+                                            "size": "1.59Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "storyboard",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Base.lproj\\Main.storyboard"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "Info.plist",
+                                    "size": "1.53Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "plist",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Info.plist"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "Runner-Bridging-Header.h",
+                                    "size": "0.03Ko",
+                                    "mimeType": "text/x-c",
+                                    "type": "file",
+                                    "extenxion": "h",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner\\Runner-Bridging-Header.h"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "Runner.xcodeproj",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcodeproj",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "project.pbxproj",
+                                    "size": "24.3Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "pbxproj",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcodeproj\\project.pbxproj"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "project.xcworkspace",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcodeproj\\project.xcworkspace",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": false,
+                                            "name": "contents.xcworkspacedata",
+                                            "size": "0.15Ko",
+                                            "mimeType": "application/octet-stream",
+                                            "type": "file",
+                                            "extenxion": "xcworkspacedata",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcodeproj\\project.xcworkspace\\contents.xcworkspacedata"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": true,
+                                    "name": "xcshareddata",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcodeproj\\xcshareddata",
+                                    "children": [
+                                        {
+                                            "isRoot": false,
+                                            "isDirectory": true,
+                                            "name": "xcschemes",
+                                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcodeproj\\xcshareddata\\xcschemes",
+                                            "children": [
+                                                {
+                                                    "isRoot": false,
+                                                    "isDirectory": false,
+                                                    "name": "Runner.xcscheme",
+                                                    "size": "3.30Ko",
+                                                    "mimeType": "application/octet-stream",
+                                                    "type": "file",
+                                                    "extenxion": "xcscheme",
+                                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcodeproj\\xcshareddata\\xcschemes\\Runner.xcscheme"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "Runner.xcworkspace",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcworkspace",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "contents.xcworkspacedata",
+                                    "size": "0.22Ko",
+                                    "mimeType": "application/octet-stream",
+                                    "type": "file",
+                                    "extenxion": "xcworkspacedata",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ios\\Runner.xcworkspace\\contents.xcworkspacedata"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "lib",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "main.dart",
+                            "size": "1.26Ko",
+                            "mimeType": "application/vnd.dart",
+                            "type": "file",
+                            "extenxion": "dart",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\main.dart"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "providers",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\providers",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "app_provider.dart",
+                                    "size": "1.88Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\providers\\app_provider.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "category_provider.dart",
+                                    "size": "3.61Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\providers\\category_provider.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "core_provider.dart",
+                                    "size": "2.33Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\providers\\core_provider.dart"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "screens",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "about.dart",
+                                    "size": "0.47Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\about.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "apps_screen.dart",
+                                    "size": "2.68Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\apps_screen.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "browse.dart",
+                                    "size": "18.1Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\browse.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "category.dart",
+                                    "size": "4.27Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\category.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "downloads.dart",
+                                    "size": "2.87Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\downloads.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "folder.dart",
+                                    "size": "20.5Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\folder.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "ftp_screen.dart",
+                                    "size": "0.76Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\ftp_screen.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "images.dart",
+                                    "size": "8.84Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\images.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "ios_error.dart",
+                                    "size": "1.70Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\ios_error.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "main_screen.dart",
+                                    "size": "5.80Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\main_screen.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "search.dart",
+                                    "size": "6.85Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\search.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "settings.dart",
+                                    "size": "4.30Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\settings.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "share.dart",
+                                    "size": "0.26Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\share.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "splash.dart",
+                                    "size": "2.87Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\splash.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "whatsapp_status.dart",
+                                    "size": "8.07Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\screens\\whatsapp_status.dart"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "util",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\util",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "consts.dart",
+                                    "size": "2.59Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\util\\consts.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "file_utils.dart",
+                                    "size": "7.24Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\util\\file_utils.dart"
+                                }
+                            ]
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": true,
+                            "name": "widgets",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets",
+                            "children": [
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "custom_alert.dart",
+                                    "size": "2.37Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\custom_alert.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "device_card.dart",
+                                    "size": "4.54Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\device_card.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "dir_item.dart",
+                                    "size": "1.02Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\dir_item.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "dir_popup.dart",
+                                    "size": "0.83Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\dir_popup.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "file_icon.dart",
+                                    "size": "2.34Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\file_icon.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "file_item.dart",
+                                    "size": "1.23Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\file_item.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "file_popup.dart",
+                                    "size": "0.96Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\file_popup.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "path_bar.dart",
+                                    "size": "0.35Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\path_bar.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "sort_sheet.dart",
+                                    "size": "2.46Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\sort_sheet.dart"
+                                },
+                                {
+                                    "isRoot": false,
+                                    "isDirectory": false,
+                                    "name": "video_thumbnail.dart",
+                                    "size": "1.52Ko",
+                                    "mimeType": "application/vnd.dart",
+                                    "type": "file",
+                                    "extenxion": "dart",
+                                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\lib\\widgets\\video_thumbnail.dart"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "LICENSE",
+                    "size": "11.2Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "LICENSE",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\LICENSE"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "pubspec.lock",
+                    "size": "8.40Ko",
+                    "mimeType": "application/octet-stream",
+                    "type": "file",
+                    "extenxion": "lock",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\pubspec.lock"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "pubspec.yaml",
+                    "size": "2.68Ko",
+                    "mimeType": "text/yaml",
+                    "type": "file",
+                    "extenxion": "yaml",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\pubspec.yaml"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "README.md",
+                    "size": "2.27Ko",
+                    "mimeType": "text/markdown",
+                    "type": "file",
+                    "extenxion": "md",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\README.md"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "ss",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "1.jpg",
+                            "size": "43.3Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\1.jpg"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "2.jpg",
+                            "size": "43.5Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\2.jpg"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "3.jpg",
+                            "size": "43.5Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\3.jpg"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "4.jpg",
+                            "size": "43.5Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\4.jpg"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "5.jpg",
+                            "size": "118.Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\5.jpg"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "6.jpg",
+                            "size": "120.Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\6.jpg"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "7.jpg",
+                            "size": "18.1Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\7.jpg"
+                        },
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "8.jpg",
+                            "size": "18.1Ko",
+                            "mimeType": "image/jpeg",
+                            "type": "image",
+                            "extenxion": "jpg",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\ss\\8.jpg"
+                        }
+                    ]
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": true,
+                    "name": "test",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\test",
+                    "children": [
+                        {
+                            "isRoot": false,
+                            "isDirectory": false,
+                            "name": "widget_test.dart",
+                            "size": "1.04Ko",
+                            "mimeType": "application/vnd.dart",
+                            "type": "file",
+                            "extenxion": "dart",
+                            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\FileX\\test\\widget_test.dart"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "maroon_5_girls_like_you_ft._cardi_b_h264_51452.mp4",
+            "size": "19.6Mo",
+            "mimeType": "video/mp4",
+            "type": "video",
+            "extenxion": "mp4",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\maroon_5_girls_like_you_ft._cardi_b_h264_51452.mp4"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "maroon_5_memories_mp3_51408.mp3",
+            "size": "2.97Mo",
+            "mimeType": "audio/mpeg",
+            "type": "audio",
+            "extenxion": "mp3",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\maroon_5_memories_mp3_51408.mp3"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "package-lock.json",
+            "size": "61.4Ko",
+            "mimeType": "application/json",
+            "type": "file",
+            "extenxion": "json",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\package-lock.json"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "package.json",
+            "size": "0.43Ko",
+            "mimeType": "application/json",
+            "type": "file",
+            "extenxion": "json",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\package.json"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "post_malone_goodbyes_ft._young_thug_rated_pg_h264_52410.mp4",
+            "size": "13.5Mo",
+            "mimeType": "video/mp4",
+            "type": "video",
+            "extenxion": "mp4",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\post_malone_goodbyes_ft._young_thug_rated_pg_h264_52410.mp4"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "post_malone_sunflower_remix_music_video_h264_52747.mp4",
+            "size": "8.32Mo",
+            "mimeType": "video/mp4",
+            "type": "video",
+            "extenxion": "mp4",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\post_malone_sunflower_remix_music_video_h264_52747.mp4"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "Procfile",
+            "size": "0.02Ko",
+            "mimeType": "application/octet-stream",
+            "type": "file",
+            "extenxion": "Procfile",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\Procfile"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": true,
+            "name": "routes",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\routes",
+            "children": [
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "api.js",
+                    "size": "0.43Ko",
+                    "mimeType": "application/javascript",
+                    "type": "file",
+                    "extenxion": "js",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\routes\\api.js"
+                },
+                {
+                    "isRoot": false,
+                    "isDirectory": false,
+                    "name": "webhook_verify.js",
+                    "size": "1.26Ko",
+                    "mimeType": "application/javascript",
+                    "type": "file",
+                    "extenxion": "js",
+                    "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\routes\\webhook_verify.js"
+                }
+            ]
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "server.js",
+            "size": "0.45Ko",
+            "mimeType": "application/javascript",
+            "type": "file",
+            "extenxion": "js",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\server.js"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "Solar_Orbiter_s_first_views_of_the_Sun_pillars.gif",
+            "size": "1008Ko",
+            "mimeType": "image/gif",
+            "type": "image",
+            "extenxion": "gif",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\Solar_Orbiter_s_first_views_of_the_Sun_pillars.gif"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "The Social Network.mp4",
+            "size": "242.Mo",
+            "mimeType": "video/mp4",
+            "type": "video",
+            "extenxion": "mp4",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\The Social Network.mp4"
+        },
+        {
+            "isRoot": false,
+            "isDirectory": false,
+            "name": "videoclip.mp4",
+            "size": "9.79Mo",
+            "mimeType": "video/mp4",
+            "type": "video",
+            "extenxion": "mp4",
+            "downloadPath": "http://localhost:3000\\zipExtractor\\tempExtract\\2ad33ae6-647f-4838-8e53-db2b4f0e51b3\\e6d71ac4-a296-411c-b3a9-a28c97bc1d7a\\ef727c6f-d1c5-494b-bab3-315cbe075c40\\videoclip.mp4"
+        }
+    ],
+    "isRoot": true,
+    "jsonFilePath": "C:\\Projects\\Remote\\main-node-js-api\\public\\zipExtractor\\ef727c6f-d1c5-494b-bab3-315cbe075c40.json"
+}

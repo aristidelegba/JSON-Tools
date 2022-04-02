@@ -1,0 +1,73 @@
+.original-container {
+  overflow: hidden;
+  border: 1px solid white;
+  padding: 10px;
+  background: rgb(0, 0, 0);
+  grid-column: 1;
+  grid-row: 1;
+  width: calc(50% - 5px);
+
+}
+.options{
+    grid-column: 2;
+  grid-row: 1;
+  background-color: yellow;
+  width: 20px;
+}
+.formatted-container {
+  overflow: hidden;
+  border: 1px solid rgb(255, 8, 8);
+  padding: 10px;
+  background: rgb(0, 0, 0);
+  grid-column: 3;
+  grid-row: 1;
+  width: calc(50% - 5px);
+}
+
+#editor1,
+#editor2 {
+  background: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  resize: none;
+  overflow: auto;
+  /* color: rgb(255, 0, 221) !important; */
+  outline: none;
+  border: none;
+}
+
+.line {
+  outline: none;
+  display: grid;
+  grid-template-columns: 30px 1fr auto;
+  position: relative;
+  margin-bottom: 10px;
+  color: white !important;
+
+}
+.line .id {
+  grid-column: 1;
+  grid-row: 1;
+  overflow: hidden;
+}
+
+.line .text {
+  outline: none;
+  grid-column: 2;
+  grid-row: 1;
+  overflow: hidden;
+}
+.container {
+  height: calc(100vh - 50px);
+  width: 100vw;
+  display: flex;
+  overflow: hidden;
+  grid-template-columns: 1fr 10px 1fr auto;
+}
+.header{
+    height: 50px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
